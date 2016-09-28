@@ -1,0 +1,21 @@
+{
+    "name": "interactionlayer/yii2-nusoap-client",
+    "description": "Use of nusoap to connect to C# Web Services",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pedro Dias",
+            "email": "info@interactionlayer.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "ilayer\\": ""
+        }
+    }
+}
